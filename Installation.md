@@ -41,6 +41,8 @@ This is for preventing a common error that was encountered before. It was solved
 
 `conda install jupyterlab`
 
+For scanpy installation instructions visit [here](https://scanpy.readthedocs.io/en/stable/installation.html)
+
 10) Always use a [cheat sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) to minimize headaches :)
 
 11) Follow the [ICB IT instructions](https://ascgitlab.helmholtz-muenchen.de/ICB/ICB_IT/-/wikis/How-to-submit-jobs-in-SLURM-cluster-And-Charliecloud-Tutorial#how-to-submit-a-jupyter-lab-session-with-sbatch) to learn how to run Jupyter on cluster and connect through your browser. You can create the mentioned run_jupyter.sh and jupyter.sbatch files on /home/icb/<your.icb.user.name> by using vi editor:
