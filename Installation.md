@@ -43,3 +43,13 @@ This is due to prevent a common error that was encountered before. It was solved
 
 10) Always use a [cheat sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) to minimize headaches :)
 
+11) Follow the [ICB IT instructions](https://ascgitlab.helmholtz-muenchen.de/ICB/ICB_IT/-/wikis/How-to-submit-jobs-in-SLURM-cluster-And-Charliecloud-Tutorial#how-to-submit-a-jupyter-lab-session-with-sbatch) to learn how to run Jupyter on cluster and connect through your browser. You can create the mentioned run_script.sh and jupyter.sbatch files on /home/icb/<your.icb.user.name> by using vi editor:
+
+#This code will create a file if a file with this specified name doesn't exist in that folder. If it does exist, it opens it. Vi editor makes handling files easier on Linux.
+
+`vi run_script.sh`
+
+Press I to switch to insert mode. Copy and paste the code from the ICB IT page. Press exit to quit the insert mode. Save by typing `:wq`.
+
+Do the same for jupyter.batch file and follow their instructions to run jupyter and connect to it through your browser.
+
