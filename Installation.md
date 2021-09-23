@@ -33,7 +33,7 @@ This is for preventing a common error that was encountered before. It was solved
 
 `conda init bash`
 
-`exec "$SHELL`
+`exec "$SHELL"`
 
 `conda activate anaconda3/envs/my-env`
 
