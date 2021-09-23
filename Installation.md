@@ -25,7 +25,7 @@ This is for preventing a common error that was encountered before. It was solved
 
 `cd /home/icb/<your.icb.user.name>/anaconda3/envs`
 
-7) Create an environment here. I will just call it "myenv"
+7) Create an environment here. I will just call it "my-env"
 
 `conda create --name my-env`
 
