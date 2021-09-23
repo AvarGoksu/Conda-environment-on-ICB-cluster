@@ -14,7 +14,7 @@
 
 `export TMPDIR=/home/icb/<your.icb.user.name>`
 
-This is due to prevent a common error that was encountered before. It was solved ICB IT. You should check issue [#286 on ICB_IT](https://ascgitlab.helmholtz-muenchen.de/ICB/ICB_IT/-/issues/286).
+This is for preventing a common error that was encountered before. It was solved ICB IT. You should check issue [#286 on ICB_IT](https://ascgitlab.helmholtz-muenchen.de/ICB/ICB_IT/-/issues/286).
 
 
 5) Install anaconda:
