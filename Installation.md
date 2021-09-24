@@ -47,7 +47,7 @@ For scanpy installation instructions visit [here](https://scanpy.readthedocs.io/
 
 11) Follow the [ICB IT instructions](https://ascgitlab.helmholtz-muenchen.de/ICB/ICB_IT/-/wikis/How-to-submit-jobs-in-SLURM-cluster-And-Charliecloud-Tutorial#how-to-submit-a-jupyter-lab-session-with-sbatch) to learn how to run Jupyter on cluster and connect through your browser. You can create the mentioned run_jupyter.sh and jupyter.sbatch files on /home/icb/<your.icb.user.name> by using vi editor:
 
-#This code will create a file if a file with this specified name doesn't exist in that folder. If it does exist, it opens it. Vi editor makes handling files easier on Linux.
+#This code will create a file if a file with this specified name doesn't already exist in that folder. If it does exist, it opens it. Vi editor makes handling files easier on Linux.
 
 `vi run_jupyter.sh`
 
